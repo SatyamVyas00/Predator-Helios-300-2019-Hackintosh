@@ -18,17 +18,17 @@
 
 - [x] Boot chime
 
-- [x] Boot menu `OpenCanopy` 
+- [x] Wifi Support Using Heliport (https://github.com/OpenIntelWireless/HeliPort/releases/tag/v1.4.0)
+
+- [x] Bluetooth
+
+- [x] Qualcomm Atheros Killer E2500 PCI Express Gigabit Ethernet 
 
 - [x] CPU power management / performance `Now on par with Windows without XTU undervolt.`
 
 - [x] GPU UHD 630 hardware acceleration / performance 
 
 - [x] iMessage, FaceTime, App Store, iTunes Store. **Generate your own SMBIOS**
-
-- [x] Qualcomm Atheros Killer E2500 PCI Express Gigabit Ethernet 
-
-- [x] Wifi Support Using Heliport (https://github.com/OpenIntelWireless/HeliPort/releases/tag/v1.4.0) 
 
 - [x] Keyboard `Volume and brightness hotkeys..`
 
