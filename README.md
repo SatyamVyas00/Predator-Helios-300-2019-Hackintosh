@@ -11,6 +11,7 @@
 **STORAGE** : 250GB (for MacOS)
 
 **OS** : MacOS Catalina (10.15.7)
+This Config is For Catalina and Below Only can be modified for BigSur and Above
 
 ## What's working
 
