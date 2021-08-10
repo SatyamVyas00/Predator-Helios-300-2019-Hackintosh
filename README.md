@@ -18,7 +18,7 @@
 
 - [x] Boot chime
 
-- [x] Wifi Support Using Heliport (https://github.com/OpenIntelWireless/HeliPort/releases/tag/v1.4.0)
+- [x] Wifi Support Using Heliport (https://github.com/OpenIntelWireless/HeliPort/releases/tag/v1.4.1)
 
 - [x] Bluetooth
 
