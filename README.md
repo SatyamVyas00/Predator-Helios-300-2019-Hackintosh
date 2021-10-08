@@ -1,4 +1,4 @@
-# Predator Helios 300 EFI PH315-52 (OC 0.7.2)
+# Predator Helios 300 EFI PH315-52 (OC 0.7.4)
 ![configuration](https://i.ibb.co/DCbXyBj/Screenshot-2021-06-14-at-9-24-38-PM.png)
 
 ## Configuration
