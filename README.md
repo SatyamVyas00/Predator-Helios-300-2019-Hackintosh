@@ -2,7 +2,7 @@
 ![configuration](https://i.ibb.co/DCbXyBj/Screenshot-2021-06-14-at-9-24-38-PM.png)
 
 ## Configuration
-**CPU** : Intel Core i7-9750H @ 2,6Ghz - 4,5Ghz
+**CPU** : Intel Core i7-9750H @ 2.6Ghz - 4.5Ghz
 
 **GPU** : Intel UHD Graphics 630 
 
@@ -10,8 +10,8 @@
 
 **STORAGE** : 250GB (for MacOS)
 
-**OS** : MacOS Catalina (10.15.7)
-This Config is For Catalina and Below Only can be modified for BigSur and Above
+**OS** : MacOS BigSur 
+This Config is For BigSur for Other Version Need small modification on config.plist
 
 ## What's working
 
@@ -31,7 +31,7 @@ This Config is For Catalina and Below Only can be modified for BigSur and Above
 
 - [x] iMessage, FaceTime, App Store, iTunes Store. **Generate your own SMBIOS**
 
-- [x] Keyboard `Volume and brightness hotkeys..`
+- [x] Keyboard `Volume and brightness hotkeys..` (fn + (F11 or F12) for Brightness)
 
 - [x] Microphone `Working built-in and audio jack support`
 
