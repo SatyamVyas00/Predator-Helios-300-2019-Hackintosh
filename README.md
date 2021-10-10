@@ -19,7 +19,7 @@ This Config is For Catalina and Below Only can be modified for BigSur and Above
 
 - [x] Boot chime
 
-- [x] Wifi Support Using Heliport (https://github.com/OpenIntelWireless/HeliPort/releases/tag/v1.4.1)
+- [x] Wifi Support using Airportitlwm-BigSur (Change to Other Version According to your Need)
 
 - [x] Bluetooth
 
