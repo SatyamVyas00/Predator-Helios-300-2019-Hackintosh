@@ -62,6 +62,14 @@
 				<key>Path</key>
 				<string>SSDT-XOSI.aml</string>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>ssdt_data.aml</string>
+				<key>Path</key>
+				<string>ssdt_data.aml</string>
+				<key>Enabled</key>
+				<true/>
+			</dict>
 		</array>
 		<key>Delete</key>
 		<array>
@@ -1330,11 +1338,11 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string></string>
+			<string>C02133270GUN9PRAD</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data></data>
+			<data>lPajjIMl</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -1342,9 +1350,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro16,1</string>
 			<key>SystemSerialNumber</key>
-			<string></string>
+			<string>C02G705LMD6N</string>
 			<key>SystemUUID</key>
-			<string></string>
+			<string>93C9EA51-EC7A-428B-8650-A33690FD8B4E</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
