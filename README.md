@@ -1,5 +1,5 @@
 # Predator Helios 300 EFI PH315-52 (OC 0.8.4)
-![configuration](https://i.ibb.co/DCbXyBj/Screenshot-2021-06-14-at-9-24-38-PM.png)
+![configuration](https://i.ibb.co/tM19Csy/Screen-Shot-2022-09-13-at-10-11-24-PM.png)
 
 ## Configuration
 **CPU** : Intel Core i7-9750H @ 2.6Ghz - 4.5Ghz
