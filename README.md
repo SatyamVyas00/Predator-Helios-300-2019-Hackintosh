@@ -1,4 +1,4 @@
-# Predator Helios 300 EFI PH315-52 (OC 0.7.4)
+# Predator Helios 300 EFI PH315-52 (OC 0.8.4)
 ![configuration](https://i.ibb.co/DCbXyBj/Screenshot-2021-06-14-at-9-24-38-PM.png)
 
 ## Configuration
@@ -10,8 +10,7 @@
 
 **STORAGE** : 250GB (for MacOS)
 
-**OS** : MacOS BigSur 
-This Config is For BigSur for Other Version Need small modification on config.plist
+**OS** : MacOS Monteray 
 
 ## What's working
 
@@ -19,13 +18,13 @@ This Config is For BigSur for Other Version Need small modification on config.pl
 
 - [x] Boot chime
 
-- [x] Wifi Support using Airportitlwm-BigSur (Change to Other Version According to your Need)
+- [x] Wifi Support using Airportitlwm
 
 - [x] Bluetooth
 
-- [x] Qualcomm Atheros Killer E2500 PCI Express Gigabit Ethernet 
+- [x] Qualcomm Atheros Killer E2500 PCI Express Gigabit Ethernet  (I Dont think i added the kext so add it if need)
 
-- [x] CPU power management / performance `Now on par with Windows without XTU undervolt.`
+- [x] CPU power management / performance 
 
 - [x] GPU UHD 630 hardware acceleration / performance 
 
@@ -37,11 +36,11 @@ This Config is For BigSur for Other Version Need small modification on config.pl
 
 - [x] Realtek® ALC255 Audio
 
-- [x] USB-C
+- [x] USB-C. (disabled create your own usb map if wanna use it)
 
 - [x] USB Ports `USB Map is different for devices with Windows Hello camera.`
 
-- [x] Web camera USB ONLY
+- [x] Web camera (works for me if not working create your own usbmap)
 
 - [x] Sleep/Wake 
 
